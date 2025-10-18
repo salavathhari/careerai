@@ -1,0 +1,32 @@
+{
+  "pages": {
+    "/(main)/interview/mock/page": [
+      "static/chunks/e752a_next_dist_0c50d79d._.js",
+      "static/chunks/OneDrive_Desktop_careerai_app_favicon_ico_mjs_2b0f3ee5._.js",
+      "static/chunks/[root-of-the-server]__3b5c5cb1._.css",
+      "static/chunks/e752a_@clerk_nextjs_dist_esm_app-router_e1dd7aac._.js",
+      "static/chunks/e752a_@clerk_shared_dist_be43c53d._.js",
+      "static/chunks/e752a_swr_dist_32f43f06._.js",
+      "static/chunks/e752a_@clerk_clerk-react_dist_9110c56d._.js",
+      "static/chunks/e752a_next_9c17f529._.js",
+      "static/chunks/e752a_tailwind-merge_dist_bundle-mjs_mjs_2e8991d9._.js",
+      "static/chunks/e752a_73dc1c8e._.js",
+      "static/chunks/OneDrive_Desktop_careerai_2b2e83bf._.js",
+      "static/chunks/OneDrive_Desktop_careerai_app_layout_33290e8f.js",
+      "static/chunks/e752a_next_dist_client_components_builtin_global-error_98db0f2a.js",
+      "static/chunks/e752a_react-spinners_esm_2522c10e._.js",
+      "static/chunks/OneDrive_Desktop_careerai_app_(main)_interview_layout_98db0f2a.js",
+      "static/chunks/OneDrive_Desktop_careerai_5f68aae3._.js",
+      "static/chunks/OneDrive_Desktop_careerai_app_(main)_interview_mock_page_jsx_e1427d98._.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_c40058fa._.js",
+      "static/chunks/e752a_next_dist_compiled_react-dom_92258451._.js",
+      "static/chunks/e752a_next_dist_compiled_next-devtools_index_8ab88a6f.js",
+      "static/chunks/e752a_next_dist_compiled_0996e2ae._.js",
+      "static/chunks/e752a_next_dist_client_b5953fe1._.js",
+      "static/chunks/e752a_next_dist_ef0530d7._.js",
+      "static/chunks/e752a_@swc_helpers_cjs_c4e57997._.js",
+      "static/chunks/OneDrive_Desktop_careerai_a0ff3932._.js",
+      "static/chunks/turbopack-OneDrive_Desktop_careerai_0fe101f4._.js"
+    ]
+  }
+}
